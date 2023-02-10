@@ -130,6 +130,11 @@ nav {
     }
   }
 
+  .heading{
+    margin: 50px 0 0 110px;
+    color: #aa8740;
+  }
+
   /* Footer */
 
 footer{
